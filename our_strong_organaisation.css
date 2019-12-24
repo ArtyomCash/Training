@@ -1,0 +1,81 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100vh;
+}
+
+.txt-white{
+  font-family: Arial;
+  font-size: 10px;
+  color: white;
+}
+
+.txt-black{
+  font-family: Arial;
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.txt-black2{
+  font-family: Arial;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.txt-black3{
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.txt-black4{
+  font-family: Arial;
+  font-size: 19px;
+  font-weight: 700;
+}
+
+.txt{
+  font-family: Arial;
+  font-size: 12.5px;
+}
+
+.red-square {
+  background: red;
+  font-family: Arial;
+  font-size: 10px;
+  border-radius: 0px;
+  color: white;
+}
+
+.red-button {
+  background: red;
+  font-family: Arial;
+  font-size: 15px;
+  border-radius: 5px;
+  color: white;
+}
+
+.square {
+  align: center;
+  width: 250px;
+  height: 250px;
+  background-color: rgb(245, 240, 221);
+}
+
+.red-square2 {
+  background: red;
+  font-family: Arial;
+  font-size: 10px;
+  color: white;
+  border-radius: 5px;
+  border: 10px ;
+}
+
+.black {
+   /* border-radius: 16px; */
+   /* border: 10px solid red; */
+   background-color: rgb(49, 48, 48);
+   /* width: 800px;
+   height: 500px; */
+}
